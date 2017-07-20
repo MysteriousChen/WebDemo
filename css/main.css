@@ -1,5 +1,5 @@
-@import url(http://fonts.googleapis.com/css?family=Dosis:400,200,300,500,600,700,800);
-@import url(http://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,200,700);
+@import url(https://fonts.googleapis.com/css?family=Dosis:400,200,300,500,600,700,800);
+@import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,200,700);
 
 /*************************
 *******Typography******
@@ -762,7 +762,7 @@ h2 {
     color: #1B7B98
 }
 
-@import url(http://fonts.googleapis.com/css?family=Roboto+Condensed:400,700);
+@import url(https://fonts.googleapis.com/css?family=Roboto+Condensed:400,700);
 
 /* written by riliwan balogun http://www.facebook.com/riliwan.rabo*/
 
@@ -784,7 +784,7 @@ h2 {
 }
 
 .board>div.board-inner {
-    background: #fafafa url(http://subtlepatterns.com/patterns/geometry2.png);
+    background: #fafafa url(https://subtlepatterns.com/patterns/geometry2.png);
     background-size: 30%;
 }
 
