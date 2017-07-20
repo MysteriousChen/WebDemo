@@ -59,7 +59,7 @@ h2 {
 }
 
 .navbar-toggle {
-    margin-top: 12px
+    margin-top: 18px
 }
 
 .navbar-toggle .icon-bar {
@@ -87,6 +87,7 @@ h2 {
     position: absolute;
     width: 100%;
     z-index: 999;
+    height: 75px;
 }
 
 .main-nav .container {
@@ -141,6 +142,7 @@ h2 {
     text-transform: uppercase;
     font-family: 'Yanone Kaffeesatz', 'sans-serif';
     font-weight: 300;
+    height:75px;
 }
 
 .navbar-right li a:hover,
