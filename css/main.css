@@ -394,7 +394,7 @@ h2 {
 **************************/
 
 #event {
-    background-color: #33888F;
+    background-color: #f6cf2a;
     background-image: url("../images/section/section1_mm.png");
     background-position: 50% 0;
     background-size: contain;
@@ -479,7 +479,7 @@ h2 {
 
 .about-content {
     width: 50%;
-    background-image: url("../images/about-bg.jpg");
+    background-image: url("../images/section/section2_mm.png");
     background-position: left bottom;
     background-repeat: no-repeat;
     background-size: cover;
